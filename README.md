@@ -88,5 +88,3 @@ because **excellence is personal**.
 ---
 
 ⭐ _Thanks for stopping by! If you like what I build, don’t forget to star a repo — it means the world._ 🌎
-
-![My True Language Stats](./github-stats/pie_by_bytes.png)
