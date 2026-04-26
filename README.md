@@ -89,4 +89,4 @@ because **excellence is personal**.
 
 ⭐ _Thanks for stopping by! If you like what I build, don’t forget to star a repo — it means the world._ 🌎
 
-![My True Language Stats](./stats/leaderboard_by_bytes.png)
+![My True Language Stats](./github-stats/leaderboard_by_bytes.png)
